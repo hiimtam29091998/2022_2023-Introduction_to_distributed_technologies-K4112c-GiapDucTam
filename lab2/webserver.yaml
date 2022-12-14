@@ -1,0 +1,26 @@
+apiVersion: apps/v1 
+kind: Deployment 
+metadata: 
+  name: webserver
+  labels: 
+    app: nginx 
+spec: 
+  replicas: 3 
+  selector: 
+    matchLabels: 
+      app: nginx 
+  template: 
+    metadata: 
+      labels: 
+        app: nginx 
+    spec: 
+      containers: 
+      - name: nginx 
+        image: "ifilyaninitmo/itdt-contained-frontend:master" 
+        env: 
+        - name: REACT_APP_USERNAME 
+          value: "Giap Duc Tam K4112c" 
+        - name: REACT_APP_COMPANY_NAME 
+          value: "GDT_Lab2" 
+        ports: 
+        - containerPort: 3000
