@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cm-env
+data:
+  REACT_APP_USERNAME: "Giap Duc Tam" 
+  REACT_APP_COMPANY_NAME: "GDT_Lab3" 
