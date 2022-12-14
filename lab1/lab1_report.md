@@ -12,7 +12,7 @@ Answers of questions:
 1. Что сейчас произошло и что сделали команды указанные ранее?
 - We can access to vault via link: http://localhost:8200
 - minikube start: `Starting minikube`
-- kubectl apply -f "C:\Users\Giap Tam\Desktop\introduction\mymanifest.yaml": `Applying the configuration of manifest to create pod`
+- kubectl apply -f "C:\Users\Giap Tam\Desktop\introduction\lab1\mymanifest.yaml": `Applying the configuration of manifest to create pod`
 - kubectl get pods (Optional): `List all pods that minikube has`
 - minikube kubectl -- expose pod vault --type=NodePort --port=8200: `Exposing to create new service NodePort type with port 8200`
 - kubectl port-forward service/vault 8200:8200: `Getting to container on port 8200`
