@@ -3,10 +3,10 @@ Faculty: [FICT](https://fict.itmo.ru)
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
 Year: 2022/2023
 Group: K4112c
-Author: Nguyen Manh Trung
+Author: Giap Duc Tam
 Lab: Lab1
-Date of create: 22.09.2022
-Date of finished: 31.09.2022
+Date of create: 14.12.2022
+Date of finished: 14.12.2022
 
 Answers of questions:
 1. Что сейчас произошло и что сделали команды указанные ранее?
