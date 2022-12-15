@@ -15,7 +15,7 @@ Date of finished: 14.12.2022<br>
 - Host ini: define the host that we could access via after deploy. Here: lab3.example.com<br>
 - Create ingress: kubectl create -f C:\Users\GIAP TAM\Desktop\introduction\lab3\ingress.yaml<br>
 - Run: minikube tunnel<br>
-![lab3](https://user-images.githubusercontent.com/104643246/207832210-b6d9cccd-ab01-413b-a479-81bf9de66f6a.png)
+![lab3](https://user-images.githubusercontent.com/104643246/207835699-8b5777ce-10fa-4d9b-931f-57dc6e904ff8.png)<br>
 Picture 1 - Result after deploy<br>
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/83900905/194373638-2115a061-d205-4efb-b634-c5d7d6460673.png)<br>
 Scheme 1 - How Ingress works with TLS
