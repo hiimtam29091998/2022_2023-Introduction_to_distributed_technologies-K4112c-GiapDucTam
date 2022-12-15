@@ -1,12 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
-Year: 2022/2023
-Group: K4112c
-Author: Giap Duc Tam
-Lab: Lab1
-Date of create: 14.12.2022
-Date of finished: 14.12.2022
+University: [ITMO University](https://itmo.ru/ru/)<br>
+Faculty: [FICT](https://fict.itmo.ru)<br>
+Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)<br>
+Year: 2022/2023<br>
+Group: K4112c<br>
+Author: Giap Duc Tam<br>
+Lab: Lab1<br>
+Date of create: 14.12.2022<br>
+Date of finished: 14.12.2022<br>
 
 Answers of questions:
 1. Что сейчас произошло и что сделали команды указанные ранее?
