@@ -22,5 +22,5 @@ Answers of questions:
 - Using command "kubectl logs vault" then find root token in logs.<br><br>
 ![schema_lab1 drawio](https://user-images.githubusercontent.com/83900905/192099613-bd190993-6d22-4617-a061-63f447f61b27.png)
 <br>Schema 1 - Nodeport working <br><br>
-![Capture](https://user-images.githubusercontent.com/83900905/194343990-a2487e52-7c62-4171-874b-d753c92b7c15.JPG)
+![lab1](https://user-images.githubusercontent.com/104643246/207836537-0c368538-984c-4234-8ce2-00929d19bb05.png)
 Picture 1 - Loggin page using token on vault
