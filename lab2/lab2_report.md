@@ -5,8 +5,8 @@ Year: 2022/2023<br>
 Group: K4112c<br>
 Author: Giap Duc Tam<br>
 Lab: Lab2<br>
-Date of create: 14.12.2022<br>
-Date of finished: 14.12.2022<br>
+Date of create: 15.12.2022<br>
+Date of finished: 15.12.2022<br>
 Creating a deployment with manifest name webserver.yaml: kubectl create -f "C:\Users\GIAP TAM\Desktop\introduction\lab2\webserver.yaml"<br>
 In this file, define the environment values with keys: REACT_APP_USERNAME and REACT_APP_COMPANY_NAME. This deployment has 3 replicasets. <br>
 Then, creating a service with type `NodePort`and port is container port in the webserver manifest: kubectl create -f "C:\Users\GIAP TAM\Desktop\introduction\lab2\webserver-svc.yaml"<br>
